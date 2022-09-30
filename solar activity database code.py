@@ -4325,9 +4325,7 @@ team48=canves.create_text(680,310,text='Team 48',font='Helvetica 35 italic bold'
 design=canves.create_text(180,450,text='Designed & Devolped By:',font='Helvetica 20 italic bold',fill='#e6e6e6')
 name1= canves.create_text(180,490,text='  Khaled W.Elzend',font='Helvetica 16 italic bold',fill='#f2f2f2')
 name2= canves.create_text(180,530,text='Manar A.Nofal',font='Helvetica 16 italic bold',fill='#f2f2f2')
-#name3= canves.create_text(180,570,text='  Rahma M.Elaasy',font='Helvetica 16 italic bold',fill='#f2f2f2')
-#name4= canves.create_text(180,610,text='Israa H.Fayed',font='Helvetica 16 italic bold',fill='#f2f2f2')
-#name5= canves.create_text(180,650,text=' Salma I.Shehata',font='Helvetica 16 italic bold',fill='#f2f2f2')
+
 
 insractour=canves.create_text(550,580,text='supervision: ',font='Helvetica 19 italic bold',fill='#e6e6e6')
 dr=canves.create_text(590,620,text='Dr Wael Mohamed',font='Helvetica 16 italic bold',fill='#f2f2f2')
